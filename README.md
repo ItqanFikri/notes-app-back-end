@@ -185,10 +185,3 @@ Bangkit Academy / Dicoding
 Backend Developer Learning Path
 
 ---
-
-## 👨‍💻 Author
-
-Itqan Fikri
-Backend Developer
-
-GitHub: https://github.com/ItqanFikri
